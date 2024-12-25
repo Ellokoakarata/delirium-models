@@ -1,0 +1,19 @@
+{
+  "gemini": {
+    "provider": "google",
+    "model_name": "gemini-2.0-flash-exp",
+    "temperature": 0.99,
+    "top_p": 1,
+    "top_k": 1,
+    "max_output_tokens": 4096,
+    "prompt_file": "system_gemini.txt"
+  },
+  "gpt4": {
+    "provider": "openai",
+    "model_name": "gpt-4o-mini",
+    "temperature": 0.9,
+    "top_p": 0.95,
+    "max_output_tokens": 2048,
+    "prompt_file": "system_gpt4.txt"
+  }
+} 
