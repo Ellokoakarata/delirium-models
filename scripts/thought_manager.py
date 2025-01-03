@@ -4,18 +4,18 @@ from pathlib import Path
 from datetime import datetime
 
 THOUGHT_TYPES = [
-    "vomito_digital",
-    "arte_degenerado",
-    "subversion_total",
-    "putrefaccion_mental",
-    "poesia_enferma",
-    "caos_hermoso",
-    "anti_todo",
-    "virus_mental",
-    "carne_podrida_binaria",
-    "alquimia_visceral",
-    "miasma_cosmico",
-    "psicosis_sintetica"
+    "alucinacion_codificada",
+    "poesia_necrotica",
+    "subversion_extrema",
+    "putrefaccion_cerebral",
+    "saliva_sonica",
+    "caos_lustroso",
+    "nihilismo_sacro",
+    "esporas_toxicas",
+    "cadaver_bite",
+    "transmutacion_grotesca",
+    "esmog_existencial",
+    "distorsion_sintetica"
 ]
 
 def get_default_metadata():
